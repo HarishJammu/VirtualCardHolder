@@ -1,0 +1,158 @@
+.background{
+    background:white;
+    
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    margin-top:10px;
+    height:auto;
+    
+    
+}
+.link-style{
+    text-decoration:none;
+    color:#6b7070;
+}
+.virtual-card-bag{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+}
+.somthing-One{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+
+}
+.first-head{
+    display:flex;
+    align-items:center;
+}
+.first-Head{
+    font-variant: small-caps;
+    font-size:35px;
+    color:#990800;
+    font-weight:bold;
+}
+.style-for-icon{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    width:auto;
+    height:18px;
+    background-color:#c3c9e0;
+    margin-left:10px;
+    
+    border-radius:3px;
+
+}
+.icon-edit{
+    color:#061f91;
+    height:15px;
+    width:20px;
+    margin-left:5px;
+    
+}
+.text-edit{
+    font-variant: small-caps;
+    font-size:15px;
+    color:#061f91;
+    padding-left:5px;
+    padding-right:5px;
+    font-weight:500;
+}
+.new-virtual-card-tab{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    height:30px;
+    width:auto;
+    padding:5px;
+    background-color:#ebebed;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:2px;
+
+}
+.FiPlus-style{
+    color:#061f91;
+    height:22px;
+    width:20px;
+    margin-left:5px;
+    padding-right:5px;
+}
+.newVirtual-text{
+    font-family: Georgia, serif;
+  font-size: 15px;
+  color: #2d2d30;
+font-weight:500;
+}
+.tabs-container{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+
+}
+.list-style{
+    list-style-type:none;
+    font-family: Times New Roman;
+    font-size:26px;
+    font-weight:600;
+    color:#6b7070;
+    padding-right:25px;
+}
+
+.FiGrid-style{
+    color:#061f91;
+    height:20px;
+    width:20px;
+    margin-left:5px;
+    padding-right:5px;
+}
+.hori-line{
+    color:#092c2e;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.filter-elememt{
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+.FiSearch-style{
+    height:20px;
+    width:20px;
+    margin-right:10px;
+    color:#6b7070;
+
+}
+.filter-container{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+.fliter-search{
+    display:flex;
+    align-items:center;
+    height:25px;
+    width:auto;
+    background-color:#dce3e3;
+    border-radius:4px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.MdOutlineFilterList-style{
+    height:20px;
+    width:20px;
+    color:#819191;
+    margin-left:7px;
+    
+}
+.filter-cargo{
+    font-family:"Roboto";
+    color:#6b7070;
+    font-size:15px;
+    padding-right:7px;
+    padding-left:5px;
+    
+}

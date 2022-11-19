@@ -1,0 +1,141 @@
+.background-setup{
+    background-color: aliceblue;
+    height: auto;
+}
+.card-setup{
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    padding-left:20px;
+    margin-left:10px;
+    background-color: aliceblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    height:auto;
+    width:600px;
+}
+.card-container{
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+}
+.card-head-setup{
+    font-family:Georgia, serif;
+    font-size:36px;
+    font-weight:bold;
+    color:#0f1829;
+}
+.budget-name-setup{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.card-holder-setup{
+    font-family:Georgia, serif;
+    font-size:16px;
+    color:#9d9fa3;
+    
+}
+.BsDot-style-setup{
+    color:#9d9fa3;
+    height:20px;
+    width:20px;
+    margin-left:6px;
+    margin-right:6px
+}
+.subcription-setup{
+    font-family:Georgia, serif;
+    font-size:18px;
+    color:#9d9fa3;
+}
+.card-type-icon-setup{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#f7f8fa;
+    height:30px;
+    width:30px;
+    border-radius:15px;
+    margin-right:15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.AiTwotoneFire-style-setup{
+    height:22px;
+    width:22px;
+    color:#e81f10;
+}
+.card-type-cantainer-setup{
+    border:1px solid #9d9fa3;
+    text-align:center;
+    height:15px;
+    width:auto;
+    font-family:Georgia, serif;
+    font-size:12px;
+    color :#9d9fa3;
+    background-color:transparent;
+    border-radius:8px;
+    padding-left:6px;
+    padding-right:6px;
+
+}
+.Expires-date-setup{
+    font-family:Georgia, serif;
+    font-size:16px;
+    color :#9d9fa3;
+    padding-right:12px;
+}
+.line-setup{
+
+    height:15px;
+    width:auto;
+    border-radius: 8px;
+    background-color:#035415;
+    margin-left:3px;
+    margin-right:10px;
+}
+.spent-style-setup{
+    
+    font-family:Georgia, serif;
+    font-size:16px;
+    color:black;
+    padding-left:5px;
+}
+.BsFillCircleFill-style-pink-setup{
+    height:15px;
+    width:15px;
+    margin-left:3px;
+    color:#e80c67;
+    
+}
+.BsFillCircleFill-style-green-setup{
+    height:15px;
+    width:15px;
+    margin-left:3px;
+    color:#035415;
+    
+}
+.acted-setup{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+.SGD-spent-setup{
+    font-family:Georgia, serif;
+    font-size:16px;
+    color:black;
+    padding-right:10px;
+}
+.spent-available-setup{
+    font-family:Georgia, serif;
+    font-size:16px;
+    color:black;
+    padding-left:8px;
+    font-weight:700;
+}
+.SGD-available-setup{
+    font-family:Georgia, serif;
+    font-size:16px;
+    color:black;
+    padding-right:10px;
+    font-weight:700;
+}

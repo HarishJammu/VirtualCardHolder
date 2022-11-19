@@ -1,0 +1,156 @@
+.card-cantainer{
+    background:white;
+    height:auto;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    margin-top:10px;
+    
+}
+.link-cardData-style{
+    text-decoration:none;
+}
+.cards-cantainer{
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-start;
+
+}
+.card-style{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    margin-top:15px;
+    height:auto;
+    width:350px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color:#f6f7f2;
+    margin-right:20px;
+    padding-left:8px;
+    border-radius:10px;
+    list-style-type:none;
+}
+.card-head{
+    font-family:Georgia, serif;
+    font-size:20px;
+    font-weight:bold;
+    color:#0f1829;
+}
+.budget-name{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.card-holder{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:#9d9fa3;
+    
+}
+.BsDot-style{
+    color:#9d9fa3;
+    height:10px;
+    width:10px;
+    margin-left:3px;
+    margin-right:3px
+}
+.subcription{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:#9d9fa3;
+}
+.card-type-icon{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:#f7f8fa;
+    height:25px;
+    width:25px;
+    border-radius:15px;
+    margin-right:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.AiTwotoneFire-style{
+    height:18px;
+    width:18px;
+    color:#e81f10;
+}
+.card-type-cantainer{
+    border:1px solid #9d9fa3;
+    text-align:center;
+    height:11px;
+    width:auto;
+    font-family:Georgia, serif;
+    font-size:7px;
+    color :#9d9fa3;
+    background-color:transparent;
+    border-radius:5px;
+    padding-left:3px;
+    padding-right:3px;
+
+}
+.Expires-date{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color :#9d9fa3;
+    padding-right:10px;
+}
+.line{
+
+    height:10px;
+    width:auto;
+    border-radius: 5px;
+    background-color:#035415;
+    margin-left:3px;
+    margin-right:10px;
+}
+.spent-style{
+    
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:black;
+    padding-left:5px;
+}
+.BsFillCircleFill-style-pink{
+    height:11px;
+    width:11px;
+    margin-left:3px;
+    color:#e80c67;
+    
+}
+.BsFillCircleFill-style-green{
+    height:11px;
+    width:11px;
+    margin-left:3px;
+    color:#035415;
+    
+}
+.acted{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+.SGD-spent{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:black;
+    padding-right:10px;
+}
+.spent-available{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:black;
+    padding-left:5px;
+    font-weight:700;
+}
+.SGD-available{
+    font-family:Georgia, serif;
+    font-size:12px;
+    color:black;
+    padding-right:10px;
+    font-weight:700;
+}
+
+
